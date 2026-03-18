@@ -63,7 +63,8 @@ This commands includes
 
 <img width="777" height="592" alt="image" src="https://github.com/user-attachments/assets/1d8695d9-5082-413e-b6b3-e182d2d451e3" />
 
-systeminfo
+10.systeminfo
+
 <img width="521" height="594" alt="image" src="https://github.com/user-attachments/assets/8a3a287f-da00-4347-aff4-0e0b05c853a6" />
 
 
