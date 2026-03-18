@@ -27,6 +27,36 @@ This commands includes
 <BR>
 
 ## Output
+netstat
+<img width="613" height="733" alt="image" src="https://github.com/user-attachments/assets/dc21e055-5782-43ec-bb0e-d4cf812d5058" />
+
+ipconfig
+<img width="1022" height="715" alt="image" src="https://github.com/user-attachments/assets/d1b5f3ec-7163-4673-825d-47b8ae677be5" />
+
+ping
+<img width="1022" height="792" alt="image" src="https://github.com/user-attachments/assets/add33ce8-cab2-4045-8fa0-6be95b193a23" />
+
+tracert
+<img width="925" height="361" alt="image" src="https://github.com/user-attachments/assets/5b240801-995a-4298-bfc7-dd400532b3c9" />
+
+nslookup
+<img width="477" height="437" alt="image" src="https://github.com/user-attachments/assets/f592a1e6-eca3-4ac2-9038-7808be6a72c4" />
+
+getmac
+<img width="753" height="135" alt="image" src="https://github.com/user-attachments/assets/9d9d22fd-07cb-4cfb-8833-7384963f889a" />
+
+hostname
+<img width="215" height="60" alt="image" src="https://github.com/user-attachments/assets/ea30f952-56b7-44b0-a034-9a8666d43d2e" />
+
+nbtstat
+<img width="839" height="440" alt="image" src="https://github.com/user-attachments/assets/b33197f2-9531-4ccc-8a7d-86412868d5b6" />
+
+arp
+<img width="777" height="592" alt="image" src="https://github.com/user-attachments/assets/1d8695d9-5082-413e-b6b3-e182d2d451e3" />
+
+systeminfo
+<img width="521" height="594" alt="image" src="https://github.com/user-attachments/assets/8a3a287f-da00-4347-aff4-0e0b05c853a6" />
+
 
 ## Result
 Thus Execution of Network commands Performed 
